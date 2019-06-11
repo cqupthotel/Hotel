@@ -1,0 +1,22 @@
+.header .location{
+  float: left;
+  height: 50px;
+  width: auto;
+}
+.header .location img{
+  display: inline-block;
+  position: relative;
+  padding-top: 15px;
+  width: 15px;
+  height: 15px;
+}
+.header .location .currentlocation{
+  float: right;
+  width: 100px;
+  height: 50px;
+}
+#printf{
+  position: relative;
+  display: inline-block;
+  font-size: 15px;
+}
